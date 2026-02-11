@@ -77,6 +77,6 @@ Original Text : HELLO
 Encrypted Text: KHOOR
 Decrypted Text: HELLO
 
-🏁 Conclusion
+Conclusion
 
 This project demonstrates how simple encryption works at a low level using 8086 Assembly. It reinforces core COAL concepts such as loops, registers, ASCII manipulation, and control flow while providing a practical cryptography example.
